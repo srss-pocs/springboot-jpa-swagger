@@ -1,3 +1,5 @@
+Spring Boot 3.1.4
+
 A Simple Spring Boot jpa Swagger Application which provides all apis details
 
 Start Application
